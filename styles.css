@@ -1,0 +1,8 @@
+/* Super Pin: mark pinned tabs in the right sidebar. */
+.workspace-tab-header.super-pin-tab .workspace-tab-header-status-icon {
+	color: var(--interactive-accent);
+}
+
+.workspace-tab-header.super-pin-tab {
+	box-shadow: inset 0 -2px 0 var(--interactive-accent);
+}
