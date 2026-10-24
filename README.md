@@ -62,11 +62,7 @@ All wrappers only act on tabs Super Pin manages. They are removed when the plugi
 
 ### From the community plugins browser
 
-Once the plugin is listed: Settings → Community plugins → Browse → search for "Super Pin".
-
-### Beta testing with BRAT
-
-Install [BRAT](https://github.com/TfTHacker/obsidian42-brat), then add this repository: `opswhisperer/obsidian-superpin`.
+Once the plugin is listed: Settings → Community plugins → Browse → search for "Super Pin", or [open Super Pin in Obsidian](https://obsidian.md/plugins?id=super-pin).
 
 ### Manually
 
